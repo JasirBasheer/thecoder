@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/thecoder/static/css/main.24b3d75a.css",
-    "main.js": "/thecoder/static/js/main.afb0b3ce.js",
+    "main.js": "/thecoder/static/js/main.87d3c063.js",
     "index.html": "/thecoder/index.html",
     "main.24b3d75a.css.map": "/thecoder/static/css/main.24b3d75a.css.map",
-    "main.afb0b3ce.js.map": "/thecoder/static/js/main.afb0b3ce.js.map"
+    "main.87d3c063.js.map": "/thecoder/static/js/main.87d3c063.js.map"
   },
   "entrypoints": [
     "static/css/main.24b3d75a.css",
-    "static/js/main.afb0b3ce.js"
+    "static/js/main.87d3c063.js"
   ]
 }
