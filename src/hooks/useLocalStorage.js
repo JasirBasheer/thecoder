@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 
-const PREFIX = 'codepen-clone-'
+const PREFIX = 'thecoder'
 
 export default function useLocalStorage(key, initialValue) {
   const prefixedKey = PREFIX + key
@@ -22,3 +22,5 @@ export default function useLocalStorage(key, initialValue) {
 
   return [value, setValue]
 }
+
+// codepen-clone-
